@@ -2,14 +2,6 @@
 
 ## Lecture Notes
 
-    Algorithm Design and Analysis
-    - Brute Force
-    - Greedy Technique
-    - Dynamic Programming
-    - Backtracking
-    - Branch and Bound
-    and catching them for some problems
-
     Introduction Heuristic Optimization
     - Into to Optimization and Meta-heuristics
 
